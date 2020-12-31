@@ -1,0 +1,393 @@
+12/30/2020 Display Warehouse Stocks of Material                                       1
+---------------------------------------------------------------------------------------------------------------------------
+| SLoc|Material  |Material Description          |Batch     |  Unrestr.|   Blocked|Qual.Insp.|   Total Value|   Total Value|
+|-------------------------------------------------------------------------------------------------------------------------|
+| FPGI|80301531  |PN SH SHEER VOLUME 6 25.4Z    |0326B68700|        0 |        3 |        0 |         0.00 |        19.24 |
+| FPGI|80301571  |PN 2N1 CLASSIC CLEAN 4 30.4Z  |9329B687C0|        0 |      124 |        0 |         0.00 |       793.91 |
+| FPGI|80301804  |PN CN CLASSIC CLEAN 4 23.7Z   |0299B68700|        0 |        1 |        0 |         0.00 |         4.34 |
+| FPGI|80301903  |PN CN DAILY MOIST RENEWAL 4 8 |0297B68700|        1 |        0 |        0 |         4.57 |         0.00 |
+| FPGI|80301966  |PN SH REPAIR & PROTECT 4 375ML|0236B68700|        0 |        1 |        0 |         0.00 |         2.79 |
+| FPGI|80308578  |BOUNCE SHT FL 6/80 CT         |0094B6870H|        0 |      175 |        0 |         0.00 |       887.57 |
+| FPGI|80309091  |BOUNCE SHT ODF 12/34 CT       |0147B6870H|        0 |        2 |        0 |         0.00 |         9.98 |
+| FPGI|80314922  |H&S SH CHARCOAL 6 12.8Z       |0300B68700|        0 |        2 |        0 |         0.00 |        10.13 |
+| FPGI|80314945  |H&S 2N1 OLD SPICE 6 12.8Z     |0274B68700|        0 |        6 |        0 |         0.00 |        30.13 |
+| FPGI|80314951  |H&S SH REFRESHING MENTHOL 4 2 |0316B68700|        0 |        4 |        0 |         0.00 |        20.95 |
+| FPGI|80314987  |H&S SH OS SWAGGER 6 12.8Z     |0232B68700|        0 |        1 |        0 |         0.00 |         5.07 |
+| FPGI|80314991  |H&S 2N1 OS SWAGGER 4 21.9Z    |0321B68700|        0 |        2 |        0 |         0.00 |        11.19 |
+| FPGI|80315825  |H&S SH OS SWAGGER 6 380ML     |0298B68700|        0 |        1 |        0 |         0.00 |         5.07 |
+| FPGI|80315846  |H&S SH ITCHY SCALP CARE 6 400 |0314B68700|        0 |        3 |        0 |         0.00 |        15.57 |
+| FPGI|80315875  |H&S SH SMOOTH & SILKY 4 650ML |0324B68700|        0 |        1 |        0 |         0.00 |         5.27 |
+| FPGI|80316604  |HE SH NK VOL GRPF MN 6 13.5Z  |0271B68700|        0 |        1 |        0 |         0.00 |         4.42 |
+| FPGI|80317360  |AU CN MIRACLE MOIST W PMP 4 2 |0319B68701|        0 |        2 |        0 |         0.00 |         9.88 |
+| FPGI|80317366  |AU CN MIRACLE VOL W PMP 4 26. |0314B68700|        0 |        4 |        0 |         0.00 |        17.64 |
+| FPGI|80318085  |AU SH MIRACLE CURLS COWASH 6  |0263B68700|        0 |       42 |        0 |         0.00 |       287.52 |
+| FPGI|80318508  |DAWN GntleCln Pom&RoseWater 1 |0292B68700|        0 |       20 |        0 |         0.00 |       114.80 |
+| FPGI|80318587  |BOUNCE SHT S&R 6/240USE B680  |0296B68700|        0 |        2 |        0 |         0.00 |        29.61 |
+| FPGI|80320191  |SWFR Wet OWF 12/12ct TS       |0313B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80320191  |SWFR Wet OWF 12/12ct TS       |0313B6870U|        0 |        1 |        0 |         0.00 |        13.78 |
+| FPGI|80320199  |SWFR Dstr 180 ITB SK 6/5 TS   |0157B6870H|        0 |      220 |        0 |         0.00 |       854.06 |
+| FPGI|80320199  |SWFR Dstr 180 ITB SK 6/5 TS   |0157B6870S|        0 |      220 |        0 |         0.00 |       854.06 |
+| FPGI|80320199  |SWFR Dstr 180 ITB SK 6/5 TS   |0166B6870H|        0 |        2 |        0 |         0.00 |         7.76 |
+| FPGI|80320208  |SWFR Dstr 360 Unsc 4/6ct TS   |0315B68700|        0 |        0 |      110 |         0.00 |         0.00 |
+| FPGI|80320210  |SWFR Dstr 360 Unsc 3/11ct TS  |0338B68700|        0 |        0 |      160 |         0.00 |         0.00 |
+| FPGI|80321076  |DAWN Ultra Original 8/28oz    |0191B687W1|        0 |    3,345 |        0 |         0.00 |    22,911.49 |
+| FPGI|80321076  |DAWN Ultra Original 8/28oz    |0198B687L2|        0 |        2 |        0 |         0.00 |        13.70 |
+| FPGI|80321777  |DAWN Ultra Original 6/75oz    |0270B6870U|        0 |        6 |        0 |         0.00 |        72.32 |
+| FPGI|80321797  |BOUNCE SHT WRINKLE ODF 6/60 CT|0185B6870H|        0 |       53 |        0 |         0.00 |       516.75 |
+| FPGI|80321959  |PN SH Smooth & Sleek 6 11OZ   |0318B68700|        0 |        4 |        0 |         0.00 |        17.63 |
+| FPGI|80322354  |DAWN Plat RefreshRain 8/34oz  |0070B687S1|        0 |    1,536 |        0 |         0.00 |    13,794.07 |
+| FPGI|80322355  |DAWN Ultra Original 8/40oz    |0077B6870H|        0 |      336 |        0 |         0.00 |     3,107.09 |
+| FPGI|80322357  |DAWN Ultra AB ApplBlossom 8/4 |0333B6870L|        0 |        9 |        0 |         0.00 |        80.91 |
+| FPGI|80323427  |HE SH REPR ARGAN OIL 6 13.5Z  |0184B68700|        0 |        1 |        0 |         0.00 |         4.48 |
+| FPGI|80323437  |HE SH MICELR WTR BLUE GNGR 6  |0306B68700|        0 |        2 |        0 |         0.00 |         8.63 |
+| FPGI|80323508  |OS RC BW Swagger 4/21oz/621ml |0317B68700|        0 |        1 |        0 |         0.00 |         4.28 |
+| FPGI|80323575  |OS RC BW Captain 4/21oz/621ml |0243B68700|        0 |        4 |        0 |         0.00 |        15.86 |
+| FPGI|80323962  |Olay BW UM Shea  4/22oz/650ml |0306B68700|       10 |        0 |        0 |        60.45 |         0.00 |
+| FPGI|80324000  |Olay BW Coconut Oil 4/30oz/88 |0342B68700|        0 |        1 |        0 |         0.00 |         8.39 |
+| FPGI|80324005  |Olay BW Age Defy 4/22oz/650ml |0297B68700|        0 |       12 |        0 |         0.00 |        72.11 |
+| FPGI|80324018  |Olay BW Exfoliating 4/22oz/65 |0319B68700|        0 |        5 |        0 |         0.00 |        27.78 |
+| FPGI|80324385  |Ivory BW Original Pump 30oz/8 |0314B68701|       54 |        0 |        0 |       289.56 |         0.00 |
+| FPGI|80324485  |SWFR Wet L&V 6/24ct TS        |0261B6870H|        0 |      350 |        0 |         0.00 |     4,195.63 |
+| FPGI|80324485  |SWFR Wet L&V 6/24ct TS        |0271B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80324485  |SWFR Wet L&V 6/24ct TS        |0296B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0311B68700|        0 |       17 |        0 |         0.00 |     9,773.98 |
+| FPGI|80324833  |SWFR Wet L&V 12/12ct TS       |0215B687H1|        0 |       32 |        0 |         0.00 |       440.42 |
+| FPGI|80324833  |SWFR Wet L&V 12/12ct TS       |0236B6870H|        0 |       96 |        0 |         0.00 |     1,321.26 |
+| FPGI|80324836  |SWFR Wet HD OWF 6/20ct TS     |0297B68700|        0 |        0 |        2 |         0.00 |         0.00 |
+---------------------------------------------------------------------------------------------------------------------------
+12/30/2020 Display Warehouse Stocks of Material                                       2
+---------------------------------------------------------------------------------------------------------------------------
+| SLoc|Material  |Material Description          |Batch     |  Unrestr.|   Blocked|Qual.Insp.|   Total Value|   Total Value|
+|-------------------------------------------------------------------------------------------------------------------------|
+| FPGI|80324836  |SWFR Wet HD OWF 6/20ct TS     |0303B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80324837  |SWFR Wet HD L&V 6/20ct TS     |0341B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80324849  |SWFR Wet XL 500/1ct Bulk TS   |0342B68700|       16 |        0 |        0 |       813.23 |         0.00 |
+| FPGI|80325052  |OS WC BW Dragonblast 4/21oz/6 |0288B687S0|        0 |      102 |        0 |         0.00 |       417.92 |
+| FPGI|80325154  |SWFR Wet HD OD Pet 6/20ct TS  |0327B68700|        0 |        0 |        2 |         0.00 |         0.00 |
+| FPGI|80325154  |SWFR Wet HD OD Pet 6/20ct TS  |0350B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0207B687H1|        0 |        2 |        0 |         0.00 |     1,319.12 |
+| FPGI|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0227B687H0|        0 |        2 |        0 |         0.00 |     1,319.12 |
+| FPGI|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0320B6870U|        0 |        1 |        0 |         0.00 |       659.56 |
+| FPGI|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0329B68700|        0 |        1 |        0 |         0.00 |       659.56 |
+| FPGI|80328083  |SWFR Dstr 360 SK 126/14 BJs TS|0314B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80328083  |SWFR Dstr 360 SK 126/14 BJs TS|0350B687U1|        0 |        1 |        0 |         0.00 |       307.61 |
+| FPGI|80328221  |OS RC BW Icon 4/21oz          |0343B68700|        0 |        1 |        0 |         0.00 |         4.22 |
+| FPGI|80329878  |PN SH SMOOTH & SLEEK 6 12.6Z  |0304B68700|        0 |        2 |        0 |         0.00 |         8.41 |
+| FPGI|80330034  |BOUNCE SHT FREE&GENTLE 6/250U |9337B6870H|        0 |       66 |        0 |         0.00 |       872.90 |
+| FPGI|80330518  |SWFR Wet Cloth Lav 6/12ct TS  |0363B68700|        0 |        0 |       72 |         0.00 |         0.00 |
+| FPGI|80330519  |SWFR Wet Cloth Lav 12/12ct TS |0350B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80330523  |SWFR Wet Cloth Lav 6/24ct TS  |0305B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80330524  |SWFR Wet Cloth Fresh 6/24ct TS|0336B68700|        0 |        0 |        2 |         0.00 |         0.00 |
+| FPGI|80330524  |SWFR Wet Cloth Fresh 6/24ct TS|0356B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80331343  |HE SF CN Aloe & Ecalyps 6 400 |0303B68700|        0 |        1 |        0 |         0.00 |         4.17 |
+| FPGI|80331687  |GAIN Dish Ult BA HnyBrryHula  |0277B6870U|        0 |       42 |        0 |         0.00 |       260.64 |
+| FPGI|80331766  |H&S Tea Tree Oil 2n1 6 13.5Z  |0278B68700|        0 |      264 |        0 |         0.00 |     1,348.37 |
+| FPGI|80332229  |PN SH SMOOTH & SLEEK 4 25.0Z  |0300B68700|        0 |        1 |        0 |         0.00 |         6.10 |
+| FPGI|80332243  |PN SH REPAIR & PROTECT 4 900ML|0313B68700|        0 |        1 |        0 |         0.00 |         6.80 |
+| FPGI|80332287  |PN SH REPAIR & PROTECT 4 20.1Z|0324B68700|        0 |        1 |        0 |         0.00 |         4.27 |
+| FPGI|80332480  |HE SH COLOR ME HAPPY 6 11.7Z  |0312B68700|       40 |        0 |        0 |       137.07 |         0.00 |
+| FPGI|80332482  |HE SH COLOR ME HAPPY 4 20.2Z  |0343B68700|        0 |       18 |        0 |         0.00 |        84.24 |
+| FPGI|80332523  |HE SH CLASSICS SMOOTH 4 29.2Z |0322B68700|        0 |       13 |        0 |         0.00 |        80.30 |
+| FPGI|80332568  |SWFR Wet OWF 88/60ct CA TS    |0311B6870H|        0 |       20 |        0 |         0.00 |     8,455.60 |
+| FPGI|80332568  |SWFR Wet OWF 88/60ct CA TS    |0361B68701|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80333385  |SWFR Dstr 360 HD OD Pet 3/11c |0196B6870H|        0 |       80 |        0 |         0.00 |       459.29 |
+| FPGI|80333385  |SWFR Dstr 360 HD OD Pet 3/11c |0303B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80333385  |SWFR Dstr 360 HD OD Pet 3/11c |0303B68701|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80333386  |SWFR Dstr 360 HD OD Pet 4/6ct |0330B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80333389  |SWFR Dstr 360 Unsc 6/3ct TS   |0145B6870H|        0 |      110 |        0 |         0.00 |       433.17 |
+| FPGI|80333389  |SWFR Dstr 360 Unsc 6/3ct TS   |0321B6870H|        0 |       12 |        0 |         0.00 |        47.25 |
+| FPGI|80333393  |SWFR Dstr 360 Unsc 4/6ct CA TS|0192B6870H|        0 |      220 |        0 |         0.00 |       939.44 |
+| FPGI|80334571  |SWFR WJ Wood 4/12ct TS        |0276B68700|        0 |        5 |        0 |         0.00 |        23.37 |
+| FPGI|80334580  |SWFR WJ 4/17ct TS             |0314B68700|        0 |        0 |        2 |         0.00 |         0.00 |
+| FPGI|80334585  |SWFR WJ 4/24ct TS             |0318B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80334615  |H&S SH Classic Clean 4 32.1OZ |0271B68700|        0 |       10 |        0 |         0.00 |        75.22 |
+| FPGI|80334615  |H&S SH Classic Clean 4 32.1OZ |0291B68701|        0 |        1 |        0 |         0.00 |         7.52 |
+| FPGI|80334623  |SWFR Wet HD 960/1ct Bulk TS   |0348B68700|        0 |       48 |        0 |         0.00 |     3,120.33 |
+| FPGI|80334722  |H&S 2n1 Dry Scalp 4 32.1OZ    |0281B68700|        0 |       18 |        0 |         0.00 |       145.23 |
+| FPGI|80334743  |H&S SH CLASSIC CLEAN 6 13.5OZ |0299B68700|        0 |        1 |        0 |         0.00 |         4.82 |
+| FPGI|80334743  |H&S SH CLASSIC CLEAN 6 13.5OZ |0299B68702|        0 |        1 |        0 |         0.00 |         4.82 |
+| FPGI|80334748  |H&S 2N1 CLASSIC CLEAN 6 13.5OZ|0255B68700|        0 |        6 |        0 |         0.00 |        26.60 |
+| FPGI|80334754  |H&S 2N1 DRY SCALP 6 13.5OZ    |0198B68701|        0 |        1 |        0 |         0.00 |         5.16 |
+| FPGI|80334757  |H&S SH GREEN APPLE 6 13.5OZ   |0189B68700|        0 |        1 |        0 |         0.00 |         5.23 |
+| FPGI|80334764  |H&S 2N1 ITCHY SCALP CARE 6 13 |0316B68700|        0 |        2 |        0 |         0.00 |        10.66 |
+| FPGI|80334881  |H&S SH SMOOTH & SILKY 4 21.9OZ|0317B68700|        0 |       13 |        0 |         0.00 |        68.50 |
+---------------------------------------------------------------------------------------------------------------------------
+12/30/2020 Display Warehouse Stocks of Material                                       3
+---------------------------------------------------------------------------------------------------------------------------
+| SLoc|Material  |Material Description          |Batch     |  Unrestr.|   Blocked|Qual.Insp.|   Total Value|   Total Value|
+|-------------------------------------------------------------------------------------------------------------------------|
+| FPGI|80334979  |H&S SH DEEP MOISTURE 6 12.8OZ |0328B68700|        0 |        5 |        0 |         0.00 |        24.39 |
+| FPGI|80334982  |H&S SH COCONUT CARE 6 13.5OZ  |0278B68701|        0 |        1 |        0 |         0.00 |         4.96 |
+| FPGI|80334988  |H&S SH Lavender 6 12.8OZ      |0324B68700|        0 |        4 |        0 |         0.00 |        19.52 |
+| FPGI|80336037  |SWFR Dstr 180 Unsc 4/10ct RF  |0339B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80336039  |SWFR Dstr 180 Gain 4/10ct RF  |0306B68701|        0 |        3 |        0 |         0.00 |        12.23 |
+| FPGI|80336039  |SWFR Dstr 180 Gain 4/10ct RF  |0338B6870U|        0 |        0 |       14 |         0.00 |         0.00 |
+| FPGI|80336039  |SWFR Dstr 180 Gain 4/10ct RF  |0355B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80336043  |SWFR Dstr 180 Lav 4/12ct RF TS|0268B68700|        0 |        0 |        3 |         0.00 |         0.00 |
+| FPGI|80336045  |SWFR Dstr 180 Unsc 4/18ct RF  |0258B6870H|        0 |        2 |        0 |         0.00 |        14.37 |
+| FPGI|80336045  |SWFR Dstr 180 Unsc 4/18ct RF  |0311B68701|        0 |       28 |        0 |         0.00 |       201.19 |
+| FPGI|80336045  |SWFR Dstr 180 Unsc 4/18ct RF  |0311B687H1|        0 |       88 |        0 |         0.00 |       632.32 |
+| FPGI|80336046  |SWFR Dstr 180 Lav 4/18ct RF TS|0323B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80336046  |SWFR Dstr 180 Lav 4/18ct RF TS|0337B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80338697  |PN SH Advanced Care 38.2oz 40 |0255B68700|        0 |        1 |        0 |         0.00 |       849.48 |
+| FPGI|80338697  |PN SH Advanced Care 38.2oz 40 |0308B68701|        0 |        2 |        0 |         0.00 |     1,698.96 |
+| FPGI|80341661  |DAWN Plat RefreshRain 8/34oz  |0341B6870U|        0 |       45 |        0 |         0.00 |       390.33 |
+| FPGI|80342617  |OS FC BW Refresh 4/16oz       |0340B68700|        0 |        8 |        0 |         0.00 |        36.92 |
+| FPGI|80343676  |OS RR BW Dynasty 4/16.9oz pump|0349B68700|        0 |       10 |        0 |         0.00 |        53.13 |
+| FPGI|80343679  |OS RR BW Royalty 4/16.9oz pump|0349B68700|        0 |       10 |        0 |         0.00 |        52.46 |
+| FPGI|80344688  |AU MIR CURLS COWASH 4CT 16.9Z |0119B68701|        0 |       14 |        0 |         0.00 |        62.41 |
+| FPGI|80344688  |AU MIR CURLS COWASH 4CT 16.9Z |0193B68700|        0 |       71 |        0 |         0.00 |       316.52 |
+| FPGI|80346231  |PN Baobab Hyd Glow CN 12 8Z   |0328B68701|        0 |        2 |        0 |         0.00 |        40.37 |
+| FPGI|80346231  |PN Baobab Hyd Glow CN 12 8Z   |0329B68700|        0 |        3 |        0 |         0.00 |        60.55 |
+| FPGI|80346231  |PN Baobab Hyd Glow CN 12 8Z   |0335B68700|        0 |        3 |        0 |         0.00 |        60.55 |
+| FPGI|80346654  |OS FC BW Hydrate w/Aloe 4/16oz|0345B68700|        0 |        8 |        0 |         0.00 |        37.71 |
+| FPGI|80346848  |H&S 2N1 CLASSIC CLEAN 6 13.5OZ|0334B68700|        0 |        2 |        0 |         0.00 |         9.86 |
+| FPGI|80346997  |PN 2N1 SHEER VOLUME 6 12.6Z   |0171B68700|        0 |       11 |        0 |         0.00 |        45.58 |
+| FPGI|80346997  |PN 2N1 SHEER VOLUME 6 12.6Z   |0340B68700|        0 |        2 |        0 |         0.00 |         8.29 |
+| FPGI|80348847  |OS RR BW Sea Spray 4/16.9oz p |0339B68701|        0 |       10 |        0 |         0.00 |        50.98 |
+| FPGI|80349545  |HE SH Classics Hydrate 4 865m |0351B68700|        0 |        1 |        0 |         0.00 |         6.80 |
+| FPGI|80349985  |OS HWC BW Ultmt 4-IN-1 Swagge |0299B68702|        0 |      576 |        0 |         0.00 |     3,305.28 |
+| FPGI|80349985  |OS HWC BW Ultmt 4-IN-1 Swagge |0304B68700|        0 |      192 |        0 |         0.00 |     1,101.76 |
+| FPGI|80350890  |OS BW Swagger 24oz/700ml TRPL |0309B68704|        0 |        2 |        0 |         0.00 |     2,785.98 |
+| FPGI|80351265  |ALT OS Swagger 2n1 4 650ml 21 |0341B68700|        1 |        0 |        0 |         5.67 |         0.00 |
+| FPGI|80352363  |SWFR Dstr 360 Unsc 3/10ct Fdr |0339B68700|        0 |       80 |        0 |         0.00 |       439.79 |
+| FPGI|80352364  |SWFR Dstr 360 Unsc 4/5ct Fdr  |0345B6870U|        0 |        8 |        0 |         0.00 |        44.94 |
+| FPGI|80352783  |SWFR Dstr 360 Unsc 3/11ct BCP |0270B68700|        0 |        3 |        0 |         0.00 |        17.91 |
+| FPGI|80352784  |SWFR Dstr 360 HD OD Pet 3/11c |0296B6870U|        0 |       45 |        0 |         0.00 |       269.27 |
+| FPGI|80352784  |SWFR Dstr 360 HD OD Pet 3/11c |0304B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| FPGI|80352803  |HE 2N1 HELLOHYDRATION 6 11.7Z |0269B68700|        0 |        1 |        0 |         0.00 |         3.81 |
+| FPGI|81738687  |LENOR SHTS SPARKLING B&YP 12X |0259B68700|        0 |      209 |        0 |         0.00 |     1,025.03 |
+| FPGI|83534224  |DAWN MANUAL P&P DET REG CLQ 1 |0230B6870H|        0 |       34 |        0 |         0.00 |       520.04 |
+| FPGI|83534227  |DAWN PT&PN DET REG CLQ OL 1-0 |0304B68700|        0 |        2 |        0 |         0.00 |        19.74 |
+| MMGI|10048026  |Cetyl Alcohol 95%-PrimG       |B680913047|        0 |    1,840 |        0 |         0.00 |     4,949.60 |
+| MMGI|90515444  |LBF OS EVO BW TH SMOOTH FINSH |TW80087601|        0 |      585 |        0 |         0.00 |        38.22 |
+| MMGI|90526316  |TRAY SW DSTR 180 SK Unsc 28ct |CA80022907|        0 |      600 |        0 |         0.00 |       580.70 |
+| MMGI|90542745  |LBF HE SH HYD COCONUT MILK 60 |TW80926293|        0 |    1,000 |        0 |         0.00 |        80.92 |
+| MMGI|90588568  |T SHRNK FLM GAIN BA HBH 3x21. |LC80075076|        0 |   72,360 |        0 |         0.00 |     9,091.31 |
+| MMGI|90609822  |CA SWFR Wet Cloth Fresh 64ct  |CA80028419|        0 |      160 |        0 |         0.00 |        94.79 |
+| MMGI|90639937  |LBF HE CN CLASSIC PURFYNG 865 |TW80085136|        0 |    1,000 |        0 |         0.00 |        49.33 |
+| MMGI|90648974  |LBB HE SH CLASSICS SHINE 865M |TW80061423|        0 |    1,000 |        0 |         0.00 |        34.68 |
+| MMGI|90648974  |LBB HE SH CLASSICS SHINE 865M |TW80064946|        0 |    1,000 |        0 |         0.00 |        34.68 |
+---------------------------------------------------------------------------------------------------------------------------
+12/30/2020 Display Warehouse Stocks of Material                                       4
+---------------------------------------------------------------------------------------------------------------------------
+| SLoc|Material  |Material Description          |Batch     |  Unrestr.|   Blocked|Qual.Insp.|   Total Value|   Total Value|
+|-------------------------------------------------------------------------------------------------------------------------|
+| MMGI|90700879  |LBB HE SH COLOR ME HAPPY 400M |TW80089578|        0 |    1,000 |        0 |         0.00 |        33.03 |
+| MMGI|90747230  |LBF PGP DawnP&P 5 GAL US      |LC80939476|        0 |    2,000 |        0 |         0.00 |       821.98 |
+| MMGI|90775562  |CA DWNY SHT INF SA&R BLISS 90 |B680921344|        0 |   16,320 |        0 |         0.00 |     1,136.04 |
+| MMGI|90775564  |CA DWNY SHT INF BW&B REF 90ct |B680921345|        0 |   16,320 |        0 |         0.00 |     1,136.03 |
+| MMGI|90862555  |SSL OLAY FO BW WHTSTWBRYMNT 6 |B680926859|        0 |    4,630 |        0 |         0.00 |       217.05 |
+| MMGI|90862563  |SSL OLAY BW WTSBY MT 12.3oz 3 |B680065376|        0 |        1 |        0 |         0.00 |         0.09 |
+| MMGI|90862565  |SSL OLAY BW BRCHWTR 364mL 12. |TW80077236|        0 |      500 |        0 |         0.00 |        92.94 |
+| MMGI|90896267  |SSL OLAY FO BW HNYDW MB 650mL |TW80931873|        0 |    1,354 |        0 |         0.00 |       146.79 |
+| MMGI|90896268  |SSL OLAY FO BW YUZPSNFLWR 650 |TW80091776|        0 |    1,000 |        0 |         0.00 |       119.25 |
+| MMGI|91000790  |LBB HE SH HYDR COCONUT MILK 6 |TW80012964|        0 |    1,000 |        0 |         0.00 |        33.44 |
+| MMGI|91019919  |CO SWFR Wet Cloth GENERIC 6x1 |BI80036767|        0 |      449 |        0 |         0.00 |       210.77 |
+| MMGI|91177761  |LBF HE CN HYD COCONUT MILK 60 |TW80072655|        0 |    1,000 |        0 |         0.00 |        80.92 |
+| MMGI|91295028  |LBB PN 2IN1 SH SHEER VOLUME 3 |B680091512|        0 |   40,000 |        0 |         0.00 |       438.40 |
+| MMGI|91305542  |LBF PN CN SMOOTH N SLEEK 855M |TW80927543|        0 |    1,000 |        0 |         0.00 |        30.33 |
+| MMGI|91311414  |LBB PN CN REPAIR N PROTECT 11 |B680807998|        0 |      750 |        0 |         0.00 |        12.51 |
+| MMGI|91321327  |LBF HE SH SMOOTH COLLECTN 400 |B680099045|   58,800 |        0 |        0 |     1,687.56 |         0.00 |
+| MMGI|91402981  |LBF OS VOLCANO SH 400ML US PR |TW80016190|        0 |    1,000 |        0 |         0.00 |        52.54 |
+| MMGI|91496461  |FILM Swfr Wet Cloth OWF XN Mu |CA80022786|        0 |    9,471 |        0 |         0.00 |       707.20 |
+| MMGI|91635448  |SSL OLAY FO BW CACTUS 650mL 2 |TW80024093|        0 |      977 |        0 |         0.00 |        53.23 |
+| MMGI|91674859  |Mat Only TS Bounce FRE Free 7 |0006246778|        0 |   31,439 |        0 |         0.00 |     4,955.73 |
+| MMGI|91676350  |CA SWFR WJ RF HD 30ct US      |CC80061565|        0 |    9,000 |        0 |         0.00 |     3,296.34 |
+| MMGI|91676381  |SHPR WRP IVORY J 621mL BW 4 C |B680038075|        0 |    3,200 |        0 |         0.00 |       597.70 |
+| MMGI|91704235  |Aqupec 3.9% Slurry with TDA-3 |B680007195|        0 |  410.640 |        0 |         0.00 |     3,525.79 |
+| MMGI|91704235  |Aqupec 3.9% Slurry with TDA-3 |B680019903|        0 |1,231.920 |        0 |         0.00 |    10,577.37 |
+| MMGI|91704235  |Aqupec 3.9% Slurry with TDA-3 |B680091789|        0 |  821.280 |        0 |         0.00 |     7,051.58 |
+| MMGI|91704235  |Aqupec 3.9% Slurry with TDA-3 |B680094568|        0 |1,642.560 |        0 |         0.00 |    14,103.16 |
+| MMGI|91704235  |Aqupec 3.9% Slurry with TDA-3 |B680920671|        0 |      412 |        0 |         0.00 |     3,537.47 |
+| MMGI|91743413  |FILM Swfr Wet Cloth Gain XN M |CA80020889|        0 |    5,983 |        0 |         0.00 |       437.36 |
+| MMGI|91891701  |LBF 778ML AUSSIE KIDS SH WTRM |TW80919713|        0 |    1,000 |        0 |         0.00 |        29.06 |
+| MMGI|91933776  |CA SWFR WetJet Pad 15ct 80322 |CC80018708|        0 |      392 |        0 |         0.00 |        77.19 |
+| MMGI|91942368  |CO SwifferWetJet GENERIC 12 t |CA80030300|        0 |      600 |        0 |         0.00 |       250.87 |
+| MMGI|91942368  |CO SwifferWetJet GENERIC 12 t |CA80030737|        0 |      270 |        0 |         0.00 |       112.89 |
+| MMGI|91942368  |CO SwifferWetJet GENERIC 12 t |CA80037656|        0 |      600 |        0 |         0.00 |       250.87 |
+| MMGI|91948563  |LBF HE CN VOL ARB COFFEE 400M |TW80921060|        0 |    1,000 |        0 |         0.00 |        30.99 |
+| MMGI|91948802  |SLEEVE SWFR Wet Cl L&V 28ct X |CA80012626|        0 |   60,665 |        0 |         0.00 |     1,886.07 |
+| MMGI|91953970  |CO Swiffer Wet GENERIC 12x12- |BI80024978|        0 |      235 |        0 |         0.00 |       170.40 |
+| MMGI|91954694  |CO Swiffer WetJet GEN 8/10ct, |CA80029264|        0 |      100 |        0 |         0.00 |        49.64 |
+| MMGI|91955104  |LBF OS WC BDYW BEARGLOVE 887M |TW80936786|        0 |    1,000 |        0 |         0.00 |        51.87 |
+| MMGI|91971320  |Swiffer Duster UF3 Nanya 58 1 |B68003405W|        0 |      233 |        0 |         0.00 |        65.24 |
+| MMGI|91973244  |LBF HE CN CLRFY WHT CHARCOAL  |TW80912311|        0 |    1,000 |        0 |         0.00 |        30.99 |
+| MMGI|92063898  |Guar Hydroxypropyltrimonium C |B680011187|        0 |    2,700 |        0 |         0.00 |    29,214.00 |
+| MMGI|92063898  |Guar Hydroxypropyltrimonium C |B680017153|        0 |    2,670 |        0 |         0.00 |    28,889.40 |
+| MMGI|92070737  |Passiflora Incarnata Flower E |B680062929|        0 |        0 |      204 |         0.00 |         0.00 |
+| MMGI|95072435  |Through Air Bonded Nonwoven   |B68002894W|        0 |       85 |        0 |         0.00 |       394.07 |
+| MMGI|95383539  |Caffeine-AltG                 |B680913742|        0 |      300 |        0 |         0.00 |     7,584.00 |
+| MMGI|95456925  |VELOCITY MOD 1B PM            |B680052934|        0 |      104 |        0 |         0.00 |     2,983.76 |
+| MMGI|95611585  |Glyceryl Oleate-PrimG         |B680083145|        0 |      300 |        0 |         0.00 |     1,060.13 |
+| MMGI|95611585  |Glyceryl Oleate-PrimG         |B680083401|        0 |      900 |        0 |         0.00 |     3,180.40 |
+| MMGI|96645269  |LBSL PGP Dawn Manual P&P Dish |LC80929565|        0 |    3,000 |        0 |         0.00 |       351.00 |
+| MMGI|96873824  |LBF PN 2IN1 SH CLASSIC CLEAN  |TW80007360|        0 |    1,000 |        0 |         0.00 |        30.91 |
+| MMGI|97093920  |135 gsm Wet Core TBAL Mosaic  |BI80038381|        0 |  888.860 |        0 |         0.00 |       343.54 |
+| MMGI|97204517  |Bico PE/PET Yellow Tow Fiber  |B68002731W|        0 |      332 |        0 |         0.00 |     1,231.72 |
+---------------------------------------------------------------------------------------------------------------------------
+12/30/2020 Display Warehouse Stocks of Material                                       5
+---------------------------------------------------------------------------------------------------------------------------
+| SLoc|Material  |Material Description          |Batch     |  Unrestr.|   Blocked|Qual.Insp.|   Total Value|   Total Value|
+|-------------------------------------------------------------------------------------------------------------------------|
+| PWSL|1075390   |Tea Tree Leaf Oil-PrimG       |B680022627|        0 |    0.301 |        0 |         0.00 |        75.51 |
+| PWSL|1120455   |Aloe Barbadensis Leaf Juice-P |B680017368|        0 |    1.817 |        0 |         0.00 |        28.49 |
+| PWSL|1120455   |Aloe Barbadensis Leaf Juice-P |B680020879|        0 |    1.802 |        0 |         0.00 |        28.26 |
+| PWSL|10045214  |EDTA-PrimG                    |B680029829|        0 |    6.001 |        0 |         0.00 |        25.98 |
+| PWSL|10045217  |Hydroxyethyl Cellulose-PrimG  |B680025103|   45.277 |        0 |        0 |       431.94 |         0.00 |
+| PWSL|10045223  |L-Glutamic Acid-PrimG         |B680018715|        0 |   34.773 |        0 |         0.00 |       142.92 |
+| PWSL|10045223  |L-Glutamic Acid-PrimG         |B680024839|        0 |    1.862 |        0 |         0.00 |         7.65 |
+| PWSL|10045223  |L-Glutamic Acid-PrimG         |B680024860|        0 |    8.096 |        0 |         0.00 |        33.27 |
+| PWSL|10045237  |Sodium Benzoate NF-PrimG      |B680007193|        0 |        0 |   29.968 |         0.00 |         0.00 |
+| PWSL|10045237  |Sodium Benzoate NF-PrimG      |B680028326|        0 |       25 |        0 |         0.00 |        69.75 |
+| PWSL|10045960  |Citric Acid PrimG             |B680042435|        0 |   22.700 |        0 |         0.00 |        32.53 |
+| PWSL|10147352  |Panthenol (50% DL-Panthenol W |B680023266|        0 |    2.401 |        0 |         0.00 |        19.90 |
+| PWSL|10147352  |Panthenol (50% DL-Panthenol W |B680099376|        0 |   11.884 |        0 |         0.00 |        98.52 |
+| PWSL|11614606  |Histidine-PrimG               |B680030713|        0 |    1.825 |        0 |         0.00 |        98.64 |
+| PWSL|90665597  |Baobab Oil PrimG              |B680024566|        0 |    0.485 |        0 |         0.00 |        85.31 |
+| PWSL|90907274  |Mangifera Indica Extract (Kew |B680027582|        0 |    6.006 |        0 |         0.00 |       534.30 |
+| PWSL|91084529  |Bourbon Extract-PrimG         |B680000883|        0 |    1.190 |        0 |         0.00 |        44.42 |
+| PWSL|95076053  |MOSA MINT OIL PrimG           |B680011374|        0 |    1.516 |        0 |         0.00 |        34.85 |
+| PWSL|95562093  |Ecklonia Radiata extract and  |B680015022|        0 |    1.006 |        0 |         0.00 |        82.39 |
+| PWSL|95623413  |Rose Extract with propylene g |B680019093|        0 |    3.587 |        0 |         0.00 |       126.05 |
+| PWSL|96468689  |Charcoal Extract-PrimG        |B680030620|        0 |    3.920 |        0 |         0.00 |       123.48 |
+| RWRK|10045269  |Cocamide  MEA (85%) Supersack |B680000115|      816 |        0 |        0 |     2,490.43 |         0.00 |
+| RWRK|10045269  |Cocamide  MEA (85%) Supersack |B680099206|        0 |        0 |      408 |         0.00 |         0.00 |
+| RWRK|10053888  |Spunbond Base Substrate       |B680077131|   68.400 |        0 |        0 |       313.97 |         0.00 |
+| RWRK|80293003  |Dawn  Ad Power Original 10/70 |0343B68700|        0 |      765-|        0 |         0.00 |     6,099.67-|
+| RWRK|80301788  |PN CN DAILY MOIST RENEWAL 4 2 |0033B68700|        1 |        0 |        0 |         3.96 |         0.00 |
+| RWRK|80301913  |PN SH SMOOTH & SLEEK 4 375ML  |0304B68700|        0 |      132-|        0 |         0.00 |       387.20-|
+| RWRK|80302002  |PN CN ULTIMATE 10 4 355ML     |00625395BA|        0 |       18-|        0 |         0.00 |        48.41-|
+| RWRK|80302002  |PN CN ULTIMATE 10 4 355ML     |02415395CA|        0 |      560-|        0 |         0.00 |     1,506.06-|
+| RWRK|80317356  |AU SH MIRACLE MOIST 6 12.1Z   |0275B68700|        0 |       59-|        0 |         0.00 |       207.60-|
+| RWRK|80317357  |AU CN MIRACLE MOIST 6 12.1Z   |0312B68700|        0 |      231-|        0 |         0.00 |       858.19-|
+| RWRK|80318567  |BOUNCE SHT FREE&GENTLE 9/105  |0082B68700|        0 |      108 |        0 |         0.00 |       940.51 |
+| RWRK|80319161  |BNC SHT RF405/260CT 5LYR PLT  |0346B6870P|        0 |        1 |        0 |         0.00 |     1,026.13 |
+| RWRK|80321086  |DAWN Ultra AB Apple Blossom 8 |0333B68700|        1 |        0 |        0 |         6.43 |         0.00 |
+| RWRK|80321794  |BOUNCE SHT WRINKLE ODF 6/40 CT|9315B68700|      300 |        0 |        0 |     1,982.28 |         0.00 |
+| RWRK|80321945  |PN CN DMR 4 10.5OZ            |03155395BD|        0 |      509-|        0 |         0.00 |     1,167.76-|
+| RWRK|80321958  |PN CN Sheer Volume 4 10.5OZ   |03225395BA|        0 |      130 |        0 |         0.00 |       290.13 |
+| RWRK|80321961  |PN CN Smooth & Sleek 4 10.5OZ |03155395BB|        0 |    1,650-|        0 |         0.00 |     4,001.10-|
+| RWRK|80321961  |PN CN Smooth & Sleek 4 10.5OZ |03285395BC|        0 |      330-|        0 |         0.00 |       800.22-|
+| RWRK|80323400  |HE CN REPR ARGAN OIL 6 13.5Z  |0304B68700|        0 |       26-|        0 |         0.00 |        99.50-|
+| RWRK|80323404  |HE CN HYDT COCNT MLK 6 13.5Z  |0023B68700|        0 |       54 |        0 |         0.00 |       221.33 |
+| RWRK|80323404  |HE CN HYDT COCNT MLK 6 13.5Z  |0060B68700|        0 |       33 |        0 |         0.00 |       135.26 |
+| RWRK|80323404  |HE CN HYDT COCNT MLK 6 13.5Z  |0093B68700|        0 |        1 |        0 |         0.00 |         4.10 |
+| RWRK|80323404  |HE CN HYDT COCNT MLK 6 13.5Z  |0160B68700|        0 |       54 |        0 |         0.00 |       221.33 |
+| RWRK|80323404  |HE CN HYDT COCNT MLK 6 13.5Z  |0173B68700|        0 |       70 |        0 |         0.00 |       286.91 |
+| RWRK|80323489  |OS RC BW Swagger 4/16oz 473ml |0174B68701|        0 |      143-|        0 |         0.00 |       484.59-|
+| RWRK|80323489  |OS RC BW Swagger 4/16oz 473ml |0183B68700|        0 |      105-|        0 |         0.00 |       355.82-|
+| RWRK|80323492  |OS WC BW Bearglove 4/16oz 473 |0282B68700|        0 |      207-|        0 |         0.00 |       664.30-|
+| RWRK|80323492  |OS WC BW Bearglove 4/16oz 473 |0292B68700|        0 |      179-|        0 |         0.00 |       574.44-|
+| RWRK|80323492  |OS WC BW Bearglove 4/16oz 473 |0325B68700|        0 |      237-|        0 |         0.00 |       760.58-|
+| RWRK|80324453  |DOWNY SHT INF L&VB CALM 6/105 |0111B6870H|        0 |      150 |        0 |         0.00 |       934.98 |
+| RWRK|80324457  |DOWNY SHT INF L&VB CALM 6/200 |9313B68700|      180 |        0 |        0 |     2,097.94 |         0.00 |
+---------------------------------------------------------------------------------------------------------------------------
+12/30/2020 Display Warehouse Stocks of Material                                       6
+---------------------------------------------------------------------------------------------------------------------------
+| SLoc|Material  |Material Description          |Batch     |  Unrestr.|   Blocked|Qual.Insp.|   Total Value|   Total Value|
+|-------------------------------------------------------------------------------------------------------------------------|
+| RWRK|80324527  |SWFR WET CLOTH LAV 66/64ct BJ |0312B6870U|        0 |        2 |        0 |         0.00 |       657.52 |
+| RWRK|80324527  |SWFR WET CLOTH LAV 66/64ct BJ |0313B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324527  |SWFR WET CLOTH LAV 66/64ct BJ |0316B68701|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324527  |SWFR WET CLOTH LAV 66/64ct BJ |0336B68701|        0 |        1 |        0 |         0.00 |       328.76 |
+| RWRK|80324527  |SWFR WET CLOTH LAV 66/64ct BJ |0338B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324527  |SWFR WET CLOTH LAV 66/64ct BJ |0342B68700|        0 |        1 |        0 |         0.00 |       328.76 |
+| RWRK|80324527  |SWFR WET CLOTH LAV 66/64ct BJ |0343B687U2|        0 |        1 |        0 |         0.00 |       328.76 |
+| RWRK|80324527  |SWFR WET CLOTH LAV 66/64ct BJ |0344B6870U|        0 |        1 |        0 |         0.00 |       328.76 |
+| RWRK|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0317B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0325B68701|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0327B68701|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0332B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0333B68702|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0339B68701|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0340B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80324528  |SWFR WET CLOTH Frsh 115/64CT  |0347B6870U|        0 |        1 |        0 |         0.00 |       574.94 |
+| RWRK|80327062  |DOWNY SHT AF 6/250CT B680     |0051B68700|        0 |      614-|        0 |         0.00 |     8,496.05-|
+| RWRK|80328003  |PN 2N1 SHEER VOLUME 6 12.6Z   |0045B68700|        1 |        0 |        0 |         3.78 |         0.00 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0322B6870U|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0325B687U1|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0336B6870U|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0338B6870U|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0342B6870U|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0344B687U1|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0345B6870U|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0355B6870U|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0362B6870U|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328073  |SWFR DSTR 180 SK 252/28ct DRP |0363B6870U|        0 |        1 |        0 |         0.00 |       659.56 |
+| RWRK|80328074  |SWFR DSTR 180 SK 126/28ct DRP |0315B6870U|        0 |        1 |        0 |         0.00 |       329.78 |
+| RWRK|80328074  |SWFR DSTR 180 SK 126/28ct DRP |0320B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80328075  |SWFR DSTR 180 SK 210/28ct DRP |0300B6870U|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80328075  |SWFR DSTR 180 SK 210/28ct DRP |0339B6870U|        0 |        1 |        0 |         0.00 |       548.67 |
+| RWRK|80328557  |SWFR WET CLOTH LAV 110/64CTDR |0316B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80328557  |SWFR WET CLOTH LAV 110/64CTDR |0317B68701|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80328557  |SWFR WET CLOTH LAV 110/64CTDR |0349B687U1|        0 |        1 |        0 |         0.00 |       549.96 |
+| RWRK|80328557  |SWFR WET CLOTH LAV 110/64CTDR |0361B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80328778  |BOUNCE SHT ODF 270/320CT5LYR  |0342B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80328778  |BOUNCE SHT ODF 270/320CT5LYR  |0356B687P1|        0 |        1 |        0 |         0.00 |       863.57 |
+| RWRK|80328778  |BOUNCE SHT ODF 270/320CT5LYR  |0361B6870P|        0 |        1 |        0 |         0.00 |       863.57 |
+| RWRK|80329879  |PN SH R&P 6 12.6Z             |00375395CC|        0 |      230-|        0 |         0.00 |       916.36-|
+| RWRK|80330924  |IVORY Ultra Classic Original  |9300B68700|        0 |       74 |        0 |         0.00 |       342.95 |
+| RWRK|80331746  |DAWN GC Pom&RoseWatr 10/24oz  |0024B68700|        0 |      680 |        0 |         0.00 |     4,280.83 |
+| RWRK|80332464  |HE SH HELLO HYDRATN 6 11.7Z 3 |0264B68700|      280 |        0 |        0 |     1,035.73 |         0.00 |
+| RWRK|80332481  |HE CN COLOR ME HAPPY 6 11.7Z  |0324B68700|        0 |       55-|        0 |         0.00 |       175.23-|
+| RWRK|80332515  |HE CN DETOXQCH HERBMNT 6 11.7 |0102B68701|        0 |      145 |        0 |         0.00 |       414.43 |
+| RWRK|80332515  |HE CN DETOXQCH HERBMNT 6 11.7 |0186B68700|        0 |      154 |        0 |         0.00 |       440.15 |
+| RWRK|80332515  |HE CN DETOXQCH HERBMNT 6 11.7 |0267B68700|        0 |      297 |        0 |         0.00 |       848.86 |
+| RWRK|80332568  |SWFR Wet OWF 88/60ct CA TS    |0300B687U3|        0 |        1-|        0 |         0.00 |       422.78-|
+| RWRK|80332568  |SWFR Wet OWF 88/60ct CA TS    |0304B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80332568  |SWFR Wet OWF 88/60ct CA TS    |0310B68701|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80332568  |SWFR Wet OWF 88/60ct CA TS    |0313B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+| RWRK|80332568  |SWFR Wet OWF 88/60ct CA TS    |0314B68700|        0 |        0 |        1 |         0.00 |         0.00 |
+---------------------------------------------------------------------------------------------------------------------------
+12/30/2020 Display Warehouse Stocks of Material                                       7
+---------------------------------------------------------------------------------------------------------------------------
+| SLoc|Material  |Material Description          |Batch     |  Unrestr.|   Blocked|Qual.Insp.|   Total Value|   Total Value|
+|-------------------------------------------------------------------------------------------------------------------------|
+| RWRK|80332832  |DAWN ADV POWER ORIG 224/3X709 |0306B68700|        2 |        0 |        0 |     2,290.72 |         0.00 |
+| RWRK|80332875  |BOUNCE SHT F&G 216/320CT4LYR  |0135B6870P|        0 |        1 |        0 |         0.00 |       651.43 |
+| RWRK|80333099  |HE SH CLASSICS SMOOTH 6 13.5z |0327B68700|        0 |       36-|        0 |         0.00 |       158.60-|
+| RWRK|80334673  |PN SH Radiant Color Shine 6 1 |0318B68700|        0 |      206-|        0 |         0.00 |       828.56-|
+| RWRK|80334674  |PN CN Radiant Color Shine 4 1 |03295395BA|        0 |      839-|        0 |         0.00 |     2,081.81-|
+| RWRK|80335553  |GAIN SHT FRSH SPLASH 6/105CT  |0062B68700|        1-|        0 |        0 |         7.01-|         0.00 |
+| RWRK|80336045  |SWFR Dstr 180 Unsc 4/18ct RF  |0311B68701|        0 |       32 |        0 |         0.00 |       229.94 |
+| RWRK|80338581  |AU Dual Pack TOTAL MIRACLE PU |9354B68701|        0 |        1-|        0 |         0.00 |       247.91-|
+| RWRK|80341660  |DAWN Plat RefreshRain 10/24oz |0329B68700|        0 |       15-|        0 |         0.00 |       117.45-|
+| RWRK|80344574  |PN WM SML SIZE DMR SH/CN Dual |0188B68702|        0 |      150-|        0 |         0.00 |     1,170.67-|
+| RWRK|80345062  |HE SH ClassicsClarfying 6 13. |0220B68700|        0 |       80 |        0 |         0.00 |       356.69 |
+| RWRK|80346206  |AU Waves Hemp SH 6 360ml 12.1 |0269B68700|        0 |       49 |        0 |         0.00 |       202.26 |
+| RWRK|80349985  |OS HWC BW Ultmt 4-IN-1 Swagge |0289B68701|        0 |      355-|        0 |         0.00 |     2,037.11-|
+| RWRK|80349985  |OS HWC BW Ultmt 4-IN-1 Swagge |0299B68700|        0 |      192-|        0 |         0.00 |     1,101.76-|
+| RWRK|80349985  |OS HWC BW Ultmt 4-IN-1 Swagge |0303B68700|        0 |       74-|        0 |         0.00 |       424.64-|
+| RWRK|80350890  |OS BW Swagger 24oz/700ml TRPL |0268B68707|        0 |        1-|        0 |         0.00 |     1,392.99-|
+| RWRK|80350890  |OS BW Swagger 24oz/700ml TRPL |0268B68714|        0 |        1-|        0 |         0.00 |     1,392.99-|
+| RWRK|80350890  |OS BW Swagger 24oz/700ml TRPL |0268B68716|        0 |        1-|        0 |         0.00 |     1,392.99-|
+| RWRK|80350890  |OS BW Swagger 24oz/700ml TRPL |0323B68701|        0 |        1-|        0 |         0.00 |     1,392.99-|
+| RWRK|83531302  |HE CN REPR ARGAN OIL 29.2OZ 1 |0262B68700|        0 |        1-|        0 |         0.00 |       205.33-|
+| RWRK|83531479  |HE SH REP ARGAN OIL 29.2 252C |0095B68708|        0 |        1-|        0 |         0.00 |       455.22-|
+| RWRK|83531594  |HE WHITE GRPF 13.5Z SH/CN 4CT |9171B68707|        0 |      960 |        0 |         0.00 |     7,842.72 |
+| RWRK|83533787  |PN SMT SH/CN DUAL PK          |0243B68706|        0 |      150-|        0 |         0.00 |     1,235.40-|
+| RWRK|83533788  |PN DMR SH/CN DUAL PK          |0243B68706|        0 |      150-|        0 |         0.00 |     1,190.07-|
+| RWRK|83534220  |DAWN MNL PT&PN DET CLQ CL 1-0 |0342B68700|        0 |       48-|        0 |         0.00 |       562.14-|
+| RWRK|83534558  |OLAY AD BW 22OZ TWIN          |0197B68701|        0 |      120-|        0 |         0.00 |     1,347.44-|
+| RWRK|83534846  |OS BEARGLOVE/SWGR 16CT BB     |0033B68702|        0 |       56-|        0 |         0.00 |       909.72-|
+| RWRK|90716715  |SHPR RSC OS EVO BW 473mL 16zo |B680096749|      875 |        0 |        0 |       212.13 |         0.00 |
+| RWRK|91081610  |LBSL PN J Shape 1130ML SH     |B680091594|    8,965 |        0 |        0 |     1,255.28 |         0.00 |
+| RWRK|91203497  |Apple Cider Vinegar Powder-Pr |B680009716|   18.523 |        0 |        0 |     1,647.25 |         0.00 |
+| RWRK|91391352  |TRAY OS Swagger BW 24 oz TRPL |B680024916|      338 |        0 |        0 |     1,043.74 |         0.00 |
+| RWRK|91440826  |LBB HS 2N1 APL CDR VNGR 400ML |B680014753|   15,000 |        0 |        0 |       163.05 |         0.00 |
+| RWRK|91469573  |ECOM PUMP SH CN 865mL 1L TRAN |B680087039|    5,535 |        0 |        0 |       595.68 |         0.00 |
+| RWRK|91678014  |LBB 778ML AUSSIE SH TOTAL MIR |B680019603|      200 |        0 |        0 |         2.19 |         0.00 |
+| RWRK|91855428  |CA PTN R&P 375/355ML SH CN TW |B680074953|    1,000 |        0 |        0 |       370.00 |         0.00 |
+| RWRK|91879109  |SHPR WRP OLAY REFRESH BW 650m |B680927070|    1,600 |        0 |        0 |       258.75 |         0.00 |
+| RWRK|91942368  |CO SwifferWetJet GENERIC 12 t |B680024131|      600 |        0 |        0 |       250.87 |         0.00 |
+| RWRK|95076053  |MOSA MINT OIL PrimG           |B680011374|      362 |        0 |        0 |     8,322.38 |         0.00 |
+| RWRK|95562093  |Ecklonia Radiata extract and  |B680096400|        0 |        0 |       20 |         0.00 |         0.00 |
+| RWRK|96345486  |ANCHOR GNF 2012C              |B680937861|      181-|        0 |      181 |     1,287.39-|         0.00 |
+| RWRK|96826839  |DPCP SRP TOP SHRD MULTI BR FO |B680079954|      158-|        0 |      158 |        84.37-|         0.00 |
+| RWRK|96826965  |FSDT DISPLAY MULTI BRD FOR VE |B680070415|       80-|        0 |        0 |        91.44-|         0.00 |
+| RWRK|97437816  |LBB HS 2IN1 SH DRY SCALP 400M |B680017245|   15,000 |        0 |        0 |       179.25 |         0.00 |
+| RWRK|98552553  |Behentrimonium Methosulfate - |0006108492|        0 |    6,400 |        0 |         0.00 |    38,016.00 |
+|-------------------------------------------------------------------------------------------------------------------------|
+|*    |          |                              |          |          |          |          |    26,485.65 |   265,795.35 |
+---------------------------------------------------------------------------------------------------------------------------

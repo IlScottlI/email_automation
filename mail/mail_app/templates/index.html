@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>SLoc</th>
+                <th>Material</th>
+                <th>Material_Description</th>
+                <th>Batch</th>
+                <th>Unrestr</th>
+                <th>Blocked</th>
+                <th>Qual_Insp</th>
+                <th>Total_Value_0</th>
+                <th>Total_Value_1</th>
+
+            </tr>
+        </thead>
+        {% for item in inventory %}
+        <tr>
+            <td>
+                {{item.SLoc}}
+            </td>
+            <td>
+                {{item.Material}}
+            </td>
+            <td>
+                {{item.Material_Description}}
+            </td>
+            <td>
+                {{item.Batch}}
+            </td>
+            <td>
+                {{item.Unrestr}}
+            </td>
+            <td>
+                {{item.Blocked}}
+            </td>
+            <td>
+                {{item.Qual_Insp}}
+            </td>
+            <td>
+                {{item.Total_Value_0}}
+            </td>
+            <td>
+                {{item.Total_Value_1}}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>
